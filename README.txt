@@ -1,1 +1,0 @@
-This is going to be my own copy of the "WBAT Processing Suite", except without the conversion from EK80 to EK60, for a single WBAT dataset.
